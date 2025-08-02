@@ -1,0 +1,103 @@
+CSV text has been written to file : Schlib_jp.csv
+
+Library Component Count : 96
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+1N4007              Diode Switching 1KV 1A 2-Pin DO-41
+1N4148              Diode Switching 1KV 1A 2-Pin DO-41
+24lc1025-i/sn       Memoria IC EEPROM 1Mb (128K x 8) I²C 900ns 8-SOIC
+2N3906              PNP General Purpose Amplifier
+3FD-320             Transformadores 12.6VCT @ .2A 6.3V  @ .4A Dual Primary
+7414                
+74AC125/SO_0        
+ACS711ELCTR-25AB-T  Hall Effect Linear Current Sensor with Overcurrent Fault Output for <100 V Isolation Applications
+BC2032-E2           BATTERY HOLDER COIN 20MM PC PIN
+CAP-0603            Ceramic CAP 0603(1608)
+CAP-0603_1          Ceramic CAP 0603(1608)
+CONECTOR TORNILLO 2 
+CONECTOR TORNILLO 3 
+CONECTOR TORNILLO 4 
+CONECTOR TORNILLO_POLAR
+CON_TC/IPRB1-125BAG1AAccessory RJ-45 With Transformer Connector - UDE
+CRISTAL 8MHZ_ATS TypeATS Type Crystal
+CRISTAL_32K         
+CRYSTAL             
+Cap_150uF/25v smd   Capacitor
+Cap_330uF_16V_smd   Capacitor
+Cap_470             Capacitor
+Cap_NP              Capacitor
+Cap_NP_15pf         Capacitor
+Cap_NP_TH           Capacitor
+Cap_Tantalio        Capacitores de tantalio Moldeado 10µF 16V 1206 (3216 métrico) 3Ohm a 100kHz
+Cap_polar           Capacitor
+Cap_tantali_10uF/16VCapacitor
+Cap_tantali_47uF    Capacitor
+Cap_tantali_smd_47uFCapacitor 47uF
+Cap_tantali_smd_47uF_1Capacitor 47uF
+DIODE               Diode Switching 1KV 1A 2-Pin DO-41
+DIODE FM 4004       DIODE
+DIODE FM 4004_1     DIODE
+DIODE SCHOTTKY      DIODE SCHOTTKY
+DIODE SCHOTTKY_1    DIODE SCHOTTKY
+DIODE SCHOTTKY_TH   Diodo Estándar Orificio pasante 200V 1A Axial
+DIODE_SMD           Diodo Estándar Montaje en superficie 600V 8A DO-214AB (SMC)
+DS1307Z+T&R         CI de reloj en tiempo real (RTC) Reloj/calendario 56B I²C, 2 conductores en serie 8-SOIC (ancho 0.154", 3.90mm)
+DSPIC30F6010A-30    Microcontrolador IC dsPIC dsPIC™ 30F 16 bits 30 MIPS Memoria flash 144KB (48K x 24) 80-TQFP (12x12)
+DSPIC33EV256GM106-I/PTdsPIC33EV Series 16 kB RAM 256 kB Flash 16-Bit Digital Signal Controller-TQFP-64
+EM500               
+Fuse 2              Fuse
+HEADER 16           
+HEADER 4            
+HEADER 8X2          
+Header 2            Header, 2-Pin
+Header 5X2          Header, 5-Pin, Dual row
+Header 6            Header, 6-Pin
+INDUCTOR            220uH 800 A
+INDUCTOR  POWER LINE
+INDUCTOR_1          
+IRF530N/TO_0_1      Canal N Montaje en superficie 100V 14 A (Tc) 3.7W (Ta), 88W (Tc) D2PAK
+IRFR210TRPBF        Canal N Montaje en superficie 200V 2.6 A (Tc) 2.5W (Ta), 25W (Tc) D-Pak
+IXDD604SIATR        Nivel bajo Gate Driver IC No inversor 8-SOIC
+J1B1211CCD          1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX
+KL-CWXM04           RF super heterodyne 315mhz rf wireless transmitter and receiver KL-CWXM04-Pin
+LED                 
+LED BI-COLOUR       
+LED_3mm             
+LED_3mm_1           
+LM324AMX/NOPB       Low Power Quad Operational Amplifier 14-SOIC 0 to 70
+LM339A              Low Power Quad Operational Amplifier 14-SOIC 0 to 70
+LM339DR             Comparator; differential; 2Ã·36VDC; Channels: 4; SMD; SO1
+LM3940IMPX-3.3/N    No Description Available
+LTV-356T            LTV Series Single Channel 80 V 3750 Vrms Transistor Output Optocoupler SMT DIP-4
+MAX3232ECPWR        No Description Available
+MCP130T-300I/TT     Resets microcontroller during power lossble
+MH                  Header, 2-Pin
+MIC4575-5.0WU-TR    Regulador 5V
+MMBT2222ALT1G       Transistor bipolar (BJT) NPN 40V 600mA 300MHz 225mW Montaje en superficie SOT-23
+MOSFET-N            Canal N Montaje en superficie 100V 33 A (Tc) 130W (Tc) D2PAK
+MOSFET-P            P-Channel MOSFET
+Opto TRIAC          Opto-Triac
+PIC18F66K22-IPT     
+POT                 
+REG_3.3V_1.5A       IC REG LINEAR 3.3V 1.5A SOT223-3
+REG_3.3V_LM3940IMPX-3.3/NIC REG LINEAR 3.3V 1A SOT223-4
+REG_3.3V_LM3940IMPX-3.3/N_1IC REG LINEAR 3.3V 1A SOT223-4
+REG_3.3V_LM3940IMPX-3.3/N_2IC REG LINEAR 3.3V 1A SOT223-4
+REG_5V_MIC4575-5.0WU-TRRegulador 5V
+RES-0603            RES-0603
+RES-0603_1          RES-0603
+Relay-DPDT_2A       Relé Propósito general DPDT (2 Forma C) 12 VCC Espiral Orificio pasante Relé Propósito general DPDT (2 Forma C) Orificio pasante
+Relay-DPDT_BIG      Relé Propósito general DPDT (2 Forma C) 12 VCC Espiral Orificio pasante
+Res1                Resistor
+Res1_1              Resistor
+Res1_2              Resistor
+Res_th1/2w          Resistor
+SW-Tactil           Tactile Switch SPST-NO Top Actuated Surface Mount
+TEST POINT          Circuit Board Hardware - PCB TEST POINT RED
+TEST_094            Circuit Board Hardware - PCB TEST POINT RED
+TRIAC               
+VARISTOR            
+W7500               ARMÂ® CortexÂ®-M0 - Microcontroller IC 32-Bit 48MHz 128KB _32K x 32_ FLASH 64-TQFP _7x7_
+db9                 182 Series 9 Position Right Angle Socket Board Mount D-Sub Connector
